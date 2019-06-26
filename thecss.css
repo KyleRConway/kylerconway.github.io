@@ -3,4 +3,36 @@
 body {
     background: white;
     font-family: oxygen,sans-serif;
+    margin: 20px;
+}
+
+h1, h2 {
+    color: navy;
+}
+
+
+/*
+
+. = CLASS
+# = ID
+
+*/
+
+.main-navigation {
+    /* background: #777777; */
+    font-weight: bold;
+}
+
+#main {
+    background: red;
+    border: 1px solid red;
+}
+
+#content {
+    background: pink;
+    border: 1px solid black;
+}
+
+.blog-index {
+    background: green;
 }
