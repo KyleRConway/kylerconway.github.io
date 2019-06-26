@@ -1,1 +1,6 @@
 /* Learning from here: https://www.cssbasics.com/css-syntax/ */
+
+body {
+    background: white;
+    font-family: oxygen,sans-serif;
+}
